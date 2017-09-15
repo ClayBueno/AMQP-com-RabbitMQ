@@ -13,6 +13,8 @@ Primeiramente precisamos instalar uma versao da linguagem <b>"Erlang"</b> compat
 Faça o Download e instale sua Erlang. https://www.erlang.org/downloads
 
 Então fazemos o download do <b>"rabbitmq Server"</b>.
+https://www.rabbitmq.com/download.html
+
 Com a instalação concluida, o RabbitMQ vai estar setado e em execução(configuracao padrão).
 
 <b>OBS:.</b>Caso nao esteja em execução entre na pasta de serviços do sistema e execute o RabbitMQ Service
